@@ -1,3 +1,3 @@
 for(let i = 0; i < 20; i++){
-    console.log("numero: "+i);
+    console.log("number: "+i);
 }
